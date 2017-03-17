@@ -1,0 +1,3 @@
+ENTR_xxxx = para entrenamiento
+
+PRB_xxxx = para prueba
